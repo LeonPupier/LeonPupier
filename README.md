@@ -12,7 +12,7 @@
 
 - 📝 I am also present on [LinkedIn](https://www.linkedin.com/in/léon-pupier-3ba10a250/) and on my [website](https://leonpupier.fr).
 
-- 📫 How to reach me **leon.pupier@proton.me**.
+- 📫 How to reach me **leonpupier@gmail.com**.
 
 - 🚧 Minishell : [![lpupier's 42 minishell Score](https://badge42.vercel.app/api/v2/clcup51gq00160fmk4ue0gmbo/project/2939155)](https://github.com/JaeSeoKim/badge42)
 
