@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]()
 
 <h1 align="center">Hi 👋, I'm Léon Pupier</h1>
-<h3 align="center">- A student at school 42 in Lyon -</h3>
+<h3 align="center">- A student at school 42 -</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeonPupier&label=Profile%20views&color=0e75b6&style=flat" alt="LeonPupier" /> </p>
