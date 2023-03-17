@@ -30,5 +30,3 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
 </p>
-
-[![lpupier's 42 stats](https://badge42.vercel.app/api/v2/clcup51gq00160fmk4ue0gmbo/stats?cursusId=21&coalitionId=303)](https://github.com/JaeSeoKim/badge42)
