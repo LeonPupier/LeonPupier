@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Léon Pupier</h1>
 <h3 align="center">- A student at school 42 -</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeonPupier&label=Profile%20views&color=0e75b6&style=flat" alt="LeonPupier" /> </p>
 
@@ -14,7 +13,7 @@
 
 - 📫 How to reach me **public_contact.l2qt6@slmail.me**.
 
-- 🚧 Minishell : [![lpupier's 42 minishell Score](https://badge42.vercel.app/api/v2/clcup51gq00160fmk4ue0gmbo/project/2939155)](https://github.com/JaeSeoKim/badge42)
+- ✅ Minishell : [![lpupier's 42 minishell Score](https://badge42.vercel.app/api/v2/clcup51gq00160fmk4ue0gmbo/project/2939155)](https://github.com/JaeSeoKim/badge42)
 
 - 🚧 Philosophers: [![lpupier's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clcup51gq00160fmk4ue0gmbo/project/2926969)](https://github.com/JaeSeoKim/badge42)
 
