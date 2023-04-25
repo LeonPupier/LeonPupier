@@ -13,10 +13,6 @@
 
 - 📫 How to reach me **public_contact.l2qt6@slmail.me**.
 
-- ✅ Minishell : [![lpupier's 42 minishell Score](https://badge42.vercel.app/api/v2/clcup51gq00160fmk4ue0gmbo/project/2939155)](https://github.com/JaeSeoKim/badge42)
-
-- 🚧 Philosophers: [![lpupier's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clcup51gq00160fmk4ue0gmbo/project/2926969)](https://github.com/JaeSeoKim/badge42)
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
