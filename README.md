@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available here !
 
-- 🌱 I’m currently working on [Mensible](https://github.com/LeonPupier/Mensible).
+- 🌱 I’m currently working on [Mensible](https://github.com/LeonPupier/Mensible) and [Cub3D](https://github.com/aLeuleu/cub3d).
 
 - 📝 I am also present on [LinkedIn](https://www.linkedin.com/in/léon-pupier-3ba10a250/) and on my [website](https://leonpupier.fr).
 
