@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: [e-mail](mailto:public_contact.l2qt6@slmail.me).
 
-### 📊 GitHub Statistiques
-
-<p display="left"><img src="https://github-readme-stats.vercel.app/api?username=LeonPupier&show_icons=true&theme=cobalt" alt="Thib1708" />
-<p display="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonPupier&layout=compact&count_private=true&theme=cobalt" />
+### 📈 GitHub Statistiques
+<p display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonPupier&theme=transparent"/>
+<p display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeonPupier&theme=transparent"
+   display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeonPupier&theme=transparent"/>
