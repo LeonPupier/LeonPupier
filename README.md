@@ -24,9 +24,6 @@
 
 </details>
 
-> **Note**:
-> *The projects for 42 are organized in chronological order. From oldest (1) to newest (9+)...*
-
 <details close>
    <summary><b>Projects for 42</b></summary>
 
@@ -48,6 +45,9 @@
    10. [Cub3D](https://github.com/aLeuleu/cub3d)
 
 </details>
+
+> **Note**:
+> *The projects for 42 are organized in chronological order. From oldest (1) to newest (9+)...*
 
 ## 📈 GitHub Statistiques
 <p display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonPupier&theme=transparent"/>
