@@ -47,7 +47,7 @@
 </details>
 
 > **Note**:
-> *The projects for 42 are organized in chronological order. From oldest (1) to newest (9+)...*
+> *The projects for 42 are organized in chronological order. From oldest (0) to newest (9+)...*
 
 ## 📈 GitHub Statistiques
 <p display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonPupier&theme=transparent"/>
