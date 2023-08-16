@@ -4,7 +4,7 @@
 
 ## 📕 Presentation
 
-- 👨‍💻 All of my projects are available here !
+- 👨‍💻 All of my projects are available here!
 
 - 🌱 I’m currently working on [Mensible](https://github.com/LeonPupier/Mensible) and Cpp modules.
 
