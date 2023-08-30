@@ -1,18 +1,20 @@
-<h1 align="left">👋 Hi, I'm <i>Léon Pupier</i>, a student at school 42</h1>
+<h1 align="left">Hi, I'm <i>Léon Pupier</i>, a student at school 42</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeonPupier&label=Profile%20views&color=0e75b6&style=flat" alt="LeonPupier" /> </p>
 
-## 📕 Presentation
+## Presentation
 
-- 👨‍💻 All of my projects are available here!
+- All of my projects are available here!
 
-- 🌱 I’m currently working on [<kbd>Mensible](https://github.com/LeonPupier/Mensible) and [<kbd>CPP Modules](https://github.com/LeonPupier/CPPModules).
+- I’m currently working on:
+[<kbd>Mensible](https://github.com/LeonPupier/Mensible) [<kbd>CPP Modules](https://github.com/LeonPupier/CPPModules)
 
-- 📝 I am also present on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin)](https://www.linkedin.com/in/l%C3%A9on-pupier0420/) and on my [![Website - leonpupier.fr](https://img.shields.io/badge/Website-leonpupier.fr-blue?logo=google)](https://leonpupier.fr)
+- How to reach me:
+[![E-Mail](https://img.shields.io/badge/E--Mail-white?logo=proton)](mailto:public_contact.l2qt6@slmail.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin)](https://www.linkedin.com/in/l%C3%A9on-pupier0420/)
+[![Website - leonpupier.fr](https://img.shields.io/badge/Website-leonpupier.fr-blue?logo=google)](https://leonpupier.fr)
 
-- 📫 How to reach me: [![E-Mail](https://img.shields.io/badge/E--Mail-white?logo=proton)](mailto:public_contact.l2qt6@slmail.me)
-
-## 💻 Projects
+## Projects
 
 <details close>
    <summary><b>Personal projects</b></summary>
@@ -52,7 +54,7 @@
 > **Legend:**
 > *🎨 Graphic projects.*
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 <p display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonPupier&theme=transparent"/>
 <p display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeonPupier&theme=transparent"
    display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeonPupier&theme=transparent"/>
