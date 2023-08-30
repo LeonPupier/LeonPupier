@@ -17,32 +17,32 @@
 <details close>
    <summary><b>Personal projects</b></summary>
 
-   * [<kbd>Mensible](https://github.com/LeonPupier/Mensible/)
-   * [<kbd>Reminder](https://github.com/LeonPupier/Reminder/)
-   * [<kbd>GameEngine](https://github.com/LeonPupier/GameEngine/)
-   * [<kbd>Maze-Solving](https://github.com/LeonPupier/Maze-solving/)
+   * [<kbd>Mensible <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/Mensible/)
+   * [<kbd>Reminder <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/Reminder/)
+   * [<kbd>GameEngine <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/GameEngine/)
+   * [<kbd>Maze-Solving <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/Maze-solving/)
 
 </details>
 
 <details close>
    <summary><b>Projects for 42</b></summary>
 
-   0. [<kbd>Libft](https://github.com/LeonPupier/Libft/)
-   1. [<kbd>Born-To-Be-Root](https://github.com/LeonPupier/b2br-commands)
-   2. [<kbd>Ft_Printf](https://github.com/LeonPupier/ft_printf)
-   3. [<kbd>Get-Next-Line](https://github.com/LeonPupier/Get-Next-Line)
-   4. [<kbd>FdF 🎨](https://github.com/LeonPupier/FdF)
-   5. [<kbd>Minitalk](https://github.com/LeonPupier/Minitalk)
-   6. [<kbd>Push_Swap](https://github.com/LeonPupier/Push_swap)
-   7. [<kbd>Philosophers](https://github.com/LeonPupier/Philosophers)
-   8. [<kbd>Minishell](https://github.com/LeonPupier/Minishell)
+   0. [<kbd>Libft <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/Libft/)
+   1. [<kbd>Born-To-Be-Root <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">](https://github.com/LeonPupier/b2br-commands) 
+   2. [<kbd>Ft_Printf <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/ft_printf) 
+   3. [<kbd>Get-Next-Line <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/Get-Next-Line) 
+   4. [<kbd>FdF 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/FdF)
+   5. [<kbd>Minitalk <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/Minitalk)
+   6. [<kbd>Push_Swap <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/Push_swap)
+   7. [<kbd>Philosophers <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/Philosophers)
+   8. [<kbd>Minishell <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/Minishell)
    9. CPP Modules
-      * [<kbd>9.00](https://github.com/LeonPupier/Cpp00)
-      * [<kbd>9.01](https://github.com/LeonPupier/Cpp01)
-      * [<kbd>9.02](https://github.com/LeonPupier/Cpp02)
-      * [<kbd>9.03](https://github.com/LeonPupier/Cpp03)
-      * [<kbd>9.04](https://github.com/LeonPupier/Cpp04)
-   10. [<kbd>Cub3D 🎨](https://github.com/aLeuleu/cub3d)
+      * [<kbd>9.00 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/Cpp00) 
+      * [<kbd>9.01 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/Cpp01)
+      * [<kbd>9.02 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/Cpp02)
+      * [<kbd>9.03 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/Cpp03)
+      * [<kbd>9.04 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/Cpp04)
+   10. [<kbd>Cub3D 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/aLeuleu/cub3d)
 
 </details>
 
