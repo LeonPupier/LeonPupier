@@ -17,10 +17,10 @@
 <details close>
    <summary><b>Personal projects</b></summary>
 
-   * [<kbd>Mensible <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/Mensible/)
-   * [<kbd>Reminder <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/Reminder/)
-   * [<kbd>GameEngine <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/GameEngine/)
-   * [<kbd>Maze-Solving <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/Maze-solving/)
+   * [<kbd>Mensible 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/Mensible/)
+   * [<kbd>Reminder 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/Reminder/)
+   * [<kbd>GameEngine 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/GameEngine/)
+   * [<kbd>Maze-Solving 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/Maze-solving/)
 
 </details>
 
@@ -36,12 +36,12 @@
    6. [<kbd>Push_Swap <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/Push_swap)
    7. [<kbd>Philosophers <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/Philosophers)
    8. [<kbd>Minishell <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/Minishell)
-   9. CPP Modules
-      * [<kbd>9.00 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/Cpp00) 
-      * [<kbd>9.01 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/Cpp01)
-      * [<kbd>9.02 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/Cpp02)
-      * [<kbd>9.03 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/Cpp03)
-      * [<kbd>9.04 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/Cpp04)
+   9. [<kbd>CPP Modules <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/)
+      * [<kbd>9.00 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">]([https://github.com/LeonPupier/CppModules/tree/master/Cpp00)
+      * [<kbd>9.01 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp01)
+      * [<kbd>9.02 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp02)
+      * [<kbd>9.03 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp03)
+      * [<kbd>9.04 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp04)
    10. [<kbd>Cub3D 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/aLeuleu/cub3d)
 
 </details>
