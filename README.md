@@ -52,7 +52,7 @@
 > **Legend:**
 > *🎨 Graphic projects.*
 
-## 📈 GitHub Statistiques
+## 📈 GitHub Statistics
 <p display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonPupier&theme=transparent"/>
 <p display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeonPupier&theme=transparent"
    display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeonPupier&theme=transparent"/>
