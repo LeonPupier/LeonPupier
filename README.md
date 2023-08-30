@@ -6,11 +6,11 @@
 
 - 👨‍💻 All of my projects are available here!
 
-- 🌱 I’m currently working on [Mensible](https://github.com/LeonPupier/Mensible) and Cpp modules.
+- 🌱 I’m currently working on [<kbd>Mensible](https://github.com/LeonPupier/Mensible) and Cpp modules.
 
-- 📝 I am also present on [LinkedIn](https://www.linkedin.com/in/léon-pupier-3ba10a250/) and on my [website](https://leonpupier.fr).
+- 📝 I am also present on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin)](https://www.linkedin.com/in/l%C3%A9on-pupier0420/) and on my [![Website - leonpupier.fr](https://img.shields.io/badge/Website-leonpupier.fr-blue?logo=google)](https://leonpupier.fr)
 
-- 📫 How to reach me: [e-mail](mailto:public_contact.l2qt6@slmail.me).
+- 📫 How to reach me: [![E-Mail](https://img.shields.io/badge/E--Mail-white?logo=proton)](mailto:public_contact.l2qt6@slmail.me)
 
 ## 💻 Projects
 
