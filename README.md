@@ -17,32 +17,32 @@
 <details close>
    <summary><b>Personal projects</b></summary>
 
-   * [Mensible](https://github.com/LeonPupier/Mensible/)
-   * [Reminder](https://github.com/LeonPupier/Reminder/)
-   * [GameEngine](https://github.com/LeonPupier/GameEngine/)
-   * [Maze-Solving](https://github.com/LeonPupier/Maze-solving/)
+   * [<kbd>Mensible](https://github.com/LeonPupier/Mensible/)
+   * [<kbd>Reminder](https://github.com/LeonPupier/Reminder/)
+   * [<kbd>GameEngine](https://github.com/LeonPupier/GameEngine/)
+   * [<kbd>Maze-Solving](https://github.com/LeonPupier/Maze-solving/)
 
 </details>
 
 <details close>
    <summary><b>Projects for 42</b></summary>
 
-   0. [Libft](https://github.com/LeonPupier/Libft/)
-   1. [Born-To-Be-Root](https://github.com/LeonPupier/b2br-commands)
-   2. [Ft_Printf](https://github.com/LeonPupier/ft_printf)
-   3. [Get-Next-Line](https://github.com/LeonPupier/Get-Next-Line)
-   4. [FdF](https://github.com/LeonPupier/FdF) 🎨
-   5. [Minitalk](https://github.com/LeonPupier/Minitalk)
-   6. [Push_Swap](https://github.com/LeonPupier/Push_swap)
-   7. [Philosophers](https://github.com/LeonPupier/Philosophers)
-   8. [Minishell](https://github.com/LeonPupier/Minishell)
+   0. [<kbd>Libft](https://github.com/LeonPupier/Libft/)
+   1. [<kbd>Born-To-Be-Root](https://github.com/LeonPupier/b2br-commands)
+   2. [<kbd>Ft_Printf](https://github.com/LeonPupier/ft_printf)
+   3. [<kbd>Get-Next-Line](https://github.com/LeonPupier/Get-Next-Line)
+   4. [<kbd>FdF 🎨](https://github.com/LeonPupier/FdF)
+   5. [<kbd>Minitalk](https://github.com/LeonPupier/Minitalk)
+   6. [<kbd>Push_Swap](https://github.com/LeonPupier/Push_swap)
+   7. [<kbd>Philosophers](https://github.com/LeonPupier/Philosophers)
+   8. [<kbd>Minishell](https://github.com/LeonPupier/Minishell)
    9. CPP Modules
-      * [9.00](https://github.com/LeonPupier/Cpp00)
-      * [9.01](https://github.com/LeonPupier/Cpp01)
-      * [9.02](https://github.com/LeonPupier/Cpp02)
-      * [9.03](https://github.com/LeonPupier/Cpp03)
-      * [9.04](https://github.com/LeonPupier/Cpp04)
-   10. [Cub3D](https://github.com/aLeuleu/cub3d) 🎨
+      * [<kbd>9.00](https://github.com/LeonPupier/Cpp00)
+      * [<kbd>9.01](https://github.com/LeonPupier/Cpp01)
+      * [<kbd>9.02](https://github.com/LeonPupier/Cpp02)
+      * [<kbd>9.03](https://github.com/LeonPupier/Cpp03)
+      * [<kbd>9.04](https://github.com/LeonPupier/Cpp04)
+   10. [<kbd>Cub3D 🎨](https://github.com/aLeuleu/cub3d)
 
 </details>
 
