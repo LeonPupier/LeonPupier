@@ -4,9 +4,6 @@
 
 ## Presentation
 
-> [!NOTE]
-> This is a note
-
 - All of my projects are available here!
 
 - I’m currently working on:
