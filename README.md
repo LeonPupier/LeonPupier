@@ -49,7 +49,7 @@
 
 </details>
 
-> [!NOTE]:
+> [!NOTE]
 > *The projects for 42 are organized in chronological order. From oldest (0) to newest (9+)...*
 
 > **Legend:**
