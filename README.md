@@ -46,6 +46,7 @@
       * [<kbd>9.03 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp03)
       * [<kbd>9.04 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp04)
       * [<kbd>9.05 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp05)
+      * [<kbd>9.06 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp06)
    10. [<kbd>Cub3D 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/aLeuleu/cub3d)
 
 </details>
