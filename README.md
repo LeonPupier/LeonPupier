@@ -7,7 +7,7 @@
 - All of my projects are available here!
 
 - I’m currently working on:
-[<kbd>Mensible](https://github.com/LeonPupier/Mensible) [<kbd>CPP Modules](https://github.com/LeonPupier/CPPModules)
+[<kbd>Mensible](https://github.com/LeonPupier/Mensible) [<kbd>🔒⌛ VisualMouse](https://github.com/LeonPupier/VisualMouse) [<kbd>CPP Modules](https://github.com/LeonPupier/CPPModules)
 
 - How to reach me:
 [![E-Mail](https://img.shields.io/badge/E--Mail-white?logo=proton)](mailto:public_contact.l2qt6@slmail.me)
