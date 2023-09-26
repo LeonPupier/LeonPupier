@@ -7,7 +7,7 @@
 - All of my projects are available here!
 
 - I’m currently working on:
-[<kbd>Mensible](https://github.com/LeonPupier/Mensible) [<kbd>🔒⌛ VisualMouse](https://github.com/LeonPupier/VisualMouse) [<kbd>CPP Modules](https://github.com/LeonPupier/CPPModules)
+[<kbd>Mensible](https://github.com/LeonPupier/Mensible) [<kbd>VisualMouse](https://github.com/LeonPupier/VisualMouse) [<kbd>CPP Modules](https://github.com/LeonPupier/CPPModules)
 
 - How to reach me:
 [![E-Mail](https://img.shields.io/badge/E--Mail-white?logo=proton)](mailto:public_contact.l2qt6@slmail.me)
@@ -23,7 +23,7 @@
    * [<kbd>Reminder 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/Reminder/)
    * [<kbd>GameEngine 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/GameEngine/)
    * [<kbd>Maze-Solving 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/Maze-solving/)
-   * [<kbd>🔒⌛ VisualMouse 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/VisualMouse)
+   * [<kbd>VisualMouse 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/VisualMouse)
 
 </details>
 
