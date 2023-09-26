@@ -23,7 +23,7 @@
    * [<kbd>Reminder 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/Reminder/)
    * [<kbd>GameEngine 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/GameEngine/)
    * [<kbd>Maze-Solving 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/Maze-solving/)
-   * [<kbd>VisualMouse 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/VisualMouse)
+   * [<kbd>🆕 VisualMouse 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/VisualMouse)
 
 </details>
 
