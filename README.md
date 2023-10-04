@@ -7,7 +7,7 @@
 - All of my projects are available here!
 
 - I’m currently working on:
-[<kbd>VisualMouse](https://github.com/LeonPupier/VisualMouse) [<kbd>CPP Modules](https://github.com/LeonPupier/CPPModules)
+[<kbd>VisualMouse](https://github.com/LeonPupier/VisualMouse) [<kbd>IRC](https://github.com/eliaszanotti/irc)
 
 - How to reach me:
 [![E-Mail](https://img.shields.io/badge/E--Mail-white?logo=proton)](mailto:public_contact.l2qt6@slmail.me)
@@ -51,6 +51,7 @@
       * [<kbd>9.08 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp08)
       * [<kbd>9.09 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp09)
    10. [<kbd>Cub3D 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/aLeuleu/cub3d)
+   11. [<kbd>IRC <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/irc)
 
 </details>
 
