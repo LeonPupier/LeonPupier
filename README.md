@@ -38,8 +38,8 @@
    5. [<kbd>Minitalk <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/Minitalk)
    6. [<kbd>Push_Swap <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/Push_swap)
    7. [<kbd>Philosophers <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/Philosophers)
-   8. [<kbd>Minishell <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/Minishell)
-   9. [<kbd>Cub3D 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/aLeuleu/cub3d)
+   8. [<kbd>Minishell 👥 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/Minishell)
+   9. [<kbd>Cub3D 🎨👥 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/aLeuleu/cub3d)
    10. [<kbd>CPP Modules <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/)
        * [<kbd>10.00 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp00)
        * [<kbd>10.01 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp01)
@@ -51,7 +51,7 @@
        * [<kbd>10.07 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp07)
        * [<kbd>10.08 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp08)
        * [<kbd>10.09 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp09)
-   11. [<kbd>IRC <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/irc)
+   11. [<kbd>IRC 👥 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/irc)
    12. [<kbd>Inception <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">](https://github.com/LeonPupier/Inception)
 
 </details>
@@ -61,6 +61,7 @@
 
 > **Legend:**
 > *🎨 Graphic projects.*
+> *👥 Group projects.*
 
 ## GitHub Statistics
 <p display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonPupier&theme=transparent"/>
