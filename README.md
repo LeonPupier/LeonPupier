@@ -52,7 +52,7 @@
        * [<kbd>10.08 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp08)
        * [<kbd>10.09 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp09)
    11. [<kbd>IRC 👥 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/irc)
-   12. [<kbd>Inception <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">](https://github.com/LeonPupier/Inception)
+   12. [<kbd>Inception <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">](https://github.com/LeonPupier/Inception)
 
 </details>
 
