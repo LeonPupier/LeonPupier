@@ -6,8 +6,9 @@
 
 - All of my projects are available here!
 
-- I’m currently working on:
-[<kbd>Transcendence](https://github.com/Thib1708/transcendence)
+- I’m currently working:
+   - **For 42**: [<kbd>Transcendence](https://github.com/Thib1708/transcendence)
+   - **Personnal project**: AimShot - *Mobile application for monitoring and statistics on firearms shooting sessions*
 
 - How to reach me:
 [![E-Mail](https://img.shields.io/badge/E--Mail-white?logo=proton)](mailto:public_contact.l2qt6@slmail.me)
