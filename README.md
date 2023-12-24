@@ -8,7 +8,7 @@
 
 - I’m currently working:
    - **For 42**: [<kbd>Transcendence](https://github.com/Thib1708/transcendence)
-   - **Personnal project**: Mobile application for firearm shooting sessions statistics - *More informations to come soon...*
+   - **Others**: Mobile application for firearm shooting sessions statistics - *More informations to come soon...*
 
 - How to reach me:
 [![E-Mail](https://img.shields.io/badge/E--Mail-white?logo=proton)](mailto:public_contact.l2qt6@slmail.me)
