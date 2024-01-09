@@ -8,7 +8,7 @@
 
 - I’m currently working:
    - **For 42**: [<kbd>Transcendence](https://github.com/Thib1708/transcendence)
-   - **Others**: Mobile application for firearm shooting sessions statistics - *More informations to come soon...*
+
 
 - How to reach me:
 [![E-Mail](https://img.shields.io/badge/E--Mail-white?logo=proton)](mailto:public_contact.l2qt6@slmail.me)
@@ -16,6 +16,7 @@
 [![Website - leonpupier.fr](https://img.shields.io/badge/Website-leonpupier.fr-blue?logo=google)](https://leonpupier.fr)
 
 ## Projects
+
 
 <details close>
    <summary><b>Personal projects</b></summary>
@@ -66,6 +67,15 @@
 > *🎨 Graphic projects.*
 > 
 > *👥 Group projects.*
+
+## Soon
+
+<!---------------------------------------------------------------- Promo ---------------------------------------------------------------->
+
+<img src="https://github.com/LeonPupier/LeonPupier/assets/100092382/32017368-7b23-4798-a125-b43e18eed042" height="300">
+</br>
+
+<!---------------------------------------------------------------- Promo ---------------------------------------------------------------->
 
 ## GitHub Statistics
 <p display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonPupier&theme=transparent"/>
