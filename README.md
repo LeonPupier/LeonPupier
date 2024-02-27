@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm <i>Léon Pupier</i>, a student at school 42</h1>
+<h1 align="left">Hi, I'm Léon Pupier, a student at school 42</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeonPupier&label=Profile%20views&color=0e75b6&style=flat" alt="LeonPupier" /> </p>
 
@@ -55,7 +55,7 @@
        * [<kbd>10.09 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp09)
    11. [<kbd>IRC 👥 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/irc)
    12. [<kbd>Inception <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">](https://github.com/LeonPupier/Inception)
-   13. [<kbd>Transcendence 👥 ⏳](https://github.com/Thib1708/transcendence)
+   13. [<kbd>Transcendence 🎨 👥 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">](https://github.com/Thib1708/transcendence)
 
 </details>
 
@@ -68,14 +68,14 @@
 > 
 > *👥 Group projects.*
 
-## Soon: A new mobile application
-
 <!---------------------------------------------------------------- Promo ---------------------------------------------------------------->
+
+## Soon: A new mobile application
 
 <img src="https://github.com/LeonPupier/LeonPupier/assets/100092382/32017368-7b23-4798-a125-b43e18eed042" height="300">
 </br>
 
-<!---------------------------------------------------------------- Promo ---------------------------------------------------------------->
+<!-------------------------------------------------------------- Statistics -------------------------------------------------------------->
 
 ## GitHub Statistics
 <p display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonPupier&theme=transparent"/>
