@@ -6,9 +6,7 @@
 
 - All of my projects are available here!
 
-- I’m currently working:
-   - **For 42**: [<kbd>Transcendence](https://github.com/Thib1708/transcendence)
-
+- I’m currently working on [<kbd>Transcendence](https://github.com/Thib1708/transcendence) for 42.
 
 - How to reach me:
 [![E-Mail](https://img.shields.io/badge/E--Mail-white?logo=proton)](mailto:public_contact.l2qt6@slmail.me)
@@ -70,7 +68,7 @@
 
 <!---------------------------------------------------------------- Promo ---------------------------------------------------------------->
 
-## Soon: A new mobile application
+## New mobile application
 
 <img src="https://github.com/LeonPupier/LeonPupier/assets/100092382/32017368-7b23-4798-a125-b43e18eed042" height="300">
 </br>
