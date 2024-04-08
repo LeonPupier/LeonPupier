@@ -9,7 +9,7 @@
 - I’m currently working on [<kbd>Transcendence](https://github.com/Thib1708/transcendence) for 42.
 
 - How to reach me:
-- 
+
 [![Website - leonpupier.fr](https://img.shields.io/badge/Website-leonpupier.fr-blue?logo=google)](https://leonpupier.fr)
 
 ## Projects
