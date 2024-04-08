@@ -9,8 +9,7 @@
 - I’m currently working on [<kbd>Transcendence](https://github.com/Thib1708/transcendence) for 42.
 
 - How to reach me:
-[![E-Mail](https://img.shields.io/badge/E--Mail-white?logo=proton)](mailto:public_contact.l2qt6@slmail.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin)](https://www.linkedin.com/in/l%C3%A9on-pupier0420/)
+- 
 [![Website - leonpupier.fr](https://img.shields.io/badge/Website-leonpupier.fr-blue?logo=google)](https://leonpupier.fr)
 
 ## Projects
