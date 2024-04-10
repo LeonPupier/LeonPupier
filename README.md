@@ -8,10 +8,10 @@
 
 - I’m currently working on [<kbd>Transcendence](https://github.com/Thib1708/transcendence) for 42.
 
-- How to reach me: [![Website - leonpupier.fr](https://img.shields.io/badge/Website-leonpupier.fr-blue?logo=google)](https://leonpupier.fr)
+- You can reach me on my website [leonpupier.fr](https://leonpupier.fr).
 
 > [!TIP]
-> Take a first look at my new mobile application, soon to be revealed at [leonpupier.fr](https://leonpupier.fr/projects/aimshot)
+> Take a first look at my new mobile application, soon to be revealed at [this address](https://leonpupier.fr/projects/aimshot).
 
 ## Projects
 
