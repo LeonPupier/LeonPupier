@@ -12,8 +12,10 @@
 
 [![Website - leonpupier.fr](https://img.shields.io/badge/Website-leonpupier.fr-blue?logo=google)](https://leonpupier.fr)
 
-## Projects
+> [!TIP]
+> Take a first look at my new mobile application, soon to be revealed at [leonpupier.fr](https://leonpupier.fr/projects/aimshot)
 
+## Projects
 
 <details close>
    <summary><b>Personal projects</b></summary>
@@ -64,13 +66,6 @@
 > *🎨 Graphic projects.*
 > 
 > *👥 Group projects.*
-
-<!---------------------------------------------------------------- Promo ---------------------------------------------------------------->
-
-## New mobile application
-
-<img src="https://github.com/LeonPupier/LeonPupier/assets/100092382/32017368-7b23-4798-a125-b43e18eed042" height="300">
-</br>
 
 <!-------------------------------------------------------------- Statistics -------------------------------------------------------------->
 
