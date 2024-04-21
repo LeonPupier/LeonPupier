@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Léon Pupier, a student at school 42</h1>
+<h1 align="left">Hi, I'm Léon Pupier</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeonPupier&label=Profile%20views&color=0e75b6&style=flat" alt="LeonPupier" /> </p>
 
@@ -6,12 +6,7 @@
 
 - All of my projects are available here!
 
-- I’m currently working on [<kbd>Transcendence](https://github.com/Thib1708/transcendence) for 42.
-
 - You can reach me on my website [leonpupier.fr](https://leonpupier.fr).
-
-> [!TIP]
-> Take a first look at my new mobile application, soon to be revealed at [this address](https://leonpupier.fr/projects/aimshot).
 
 ## Projects
 
