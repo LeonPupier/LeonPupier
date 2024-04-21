@@ -22,7 +22,7 @@
 </details>
 
 <details close>
-   <summary><b>Projects for 42</b></summary>
+   <summary><b>Projects for 42 school</b></summary>
 
    0. [<kbd>Libft <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/Libft/)
    1. [<kbd>Born-To-Be-Root <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">](https://github.com/LeonPupier/b2br-commands) 
