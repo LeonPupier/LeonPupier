@@ -1,68 +1,91 @@
-<h1 align="left">Hi, I'm Léon Pupier</h1>
+<h1 align="center">👋 Hello, I'm Léon Pupier</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LeonPupier&label=Profile%20views&color=0e75b6&style=flat" alt="LeonPupier" /> </p>
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=LeonPupier&label=Profile%20views&color=blue&style=flat" alt="Profile Views" />
+</p>
 
-## Presentation
+---
 
-- All of my projects are available here!
+## 🖋️ **About Me**
 
-- You can reach me on my website [leonpupier.fr](https://leonpupier.fr).
+🎓 Developer and graduate of 42 Lyon. I enjoy designing innovative solutions, tackling challenges, and building intuitive software.  
+🌐 Check out my portfolio: [leonpupier.fr](https://leonpupier.fr).  
+💬 Let's connect! Feel free to reach out for collaborations or questions.
 
-## Projects
+---
 
-<details close>
-   <summary><b>Personal projects</b></summary>
+## 🛠️ **Key Skills**
 
-   * [<kbd>Mensible 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/Mensible/)
-   * [<kbd>Reminder 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/Reminder/)
-   * [<kbd>GameEngine 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/GameEngine/)
-   * [<kbd>Maze-Solving 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/Maze-solving/)
-   * [<kbd>VisualMouse 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">](https://github.com/LeonPupier/VisualMouse)
+### **Languages**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="24" height="24" align="center"/> Bash
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" align="center"/> Python
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" align="center"/> JavaScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="24" height="24" align="center"/> C
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" height="24" align="center"/> C++
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="24" height="24" align="center"/> React Native
 
-</details>
+### **Frameworks/Tools**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="24" height="24" align="center"/> Django
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" height="24" align="center"/> Docker
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" align="center"/> Git
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24" height="24" align="center"/> Linux
 
-<details close>
-   <summary><b>Projects for 42 school</b></summary>
 
-   0. [<kbd>Libft <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/Libft/)
-   1. [<kbd>Born-To-Be-Root <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">](https://github.com/LeonPupier/b2br-commands) 
-   2. [<kbd>Ft_Printf <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/ft_printf) 
-   3. [<kbd>Get-Next-Line <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/Get-Next-Line) 
-   4. [<kbd>FdF 🎨 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/FdF)
-   5. [<kbd>Minitalk <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/Minitalk)
-   6. [<kbd>Push_Swap <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/Push_swap)
-   7. [<kbd>Philosophers <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/Philosophers)
-   8. [<kbd>Minishell 👥 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/LeonPupier/Minishell)
-   9. [<kbd>Cub3D 🎨 👥 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">](https://github.com/aLeuleu/cub3d)
-   10. [<kbd>CPP Modules <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/)
-       * [<kbd>10.00 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp00)
-       * [<kbd>10.01 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp01)
-       * [<kbd>10.02 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp02)
-       * [<kbd>10.03 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp03)
-       * [<kbd>10.04 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp04)
-       * [<kbd>10.05 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp05)
-       * [<kbd>10.06 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp06)
-       * [<kbd>10.07 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp07)
-       * [<kbd>10.08 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp08)
-       * [<kbd>10.09 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/LeonPupier/CppModules/tree/master/Cpp09)
-   11. [<kbd>IRC 👥 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">](https://github.com/eliaszanotti/irc)
-   12. [<kbd>Inception <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">](https://github.com/LeonPupier/Inception)
-   13. [<kbd>Transcendence 🎨 👥 <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> <img height=11 src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">](https://github.com/Thib1708/transcendence)
+---
+
+## 💻 **Projects Overview**
+
+### **Personal Projects**
+<details>
+<summary>Click to explore</summary>
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**Mensible**](https://github.com/LeonPupier/Mensible) | Software to download videos & music from a YouTube/Spotify URL. | Python |
+| [**Reminder**](https://github.com/LeonPupier/Reminder) | Broadcasts text-to-speech messages over the network. | Python, JavaScript, HTML, CSS |
+| [**GameEngine**](https://github.com/LeonPupier/GameEngine) | A custom 2D game engine. | Python |
+| [**Maze-Solving**](https://github.com/LeonPupier/Maze-solving) | Algorithms to generate & solve complex mazes. | Python |
+| [**VisualMouse**](https://github.com/LeonPupier/VisualMouse) | Hands-free mouse using computer vision. | Python |
 
 </details>
 
-> [!NOTE]
-> *The projects for 42 are organized in chronological order. From oldest (0) to newest (9+)...*
+### **42 School Projects**
+<details>
+<summary>Click to explore</summary>
 
-> **Legend:**
-> 
-> *🎨 Graphic projects.*
-> 
-> *👥 Group projects.*
+| Order | Project | Description | Tech Stack |
+|---|---------|-------------|------------|
+| 0 | [**Libft**](https://github.com/LeonPupier/Libft) | Custom C library implementing basic functionalities. | C |
+| 1 | [**Born-To-Be-Root**](https://github.com/LeonPupier/b2br-commands) | Linux system administration basics. | Bash |
+| 2 | [**Ft_Printf**](https://github.com/LeonPupier/ft_printf) | Re-implementation of `printf`. | C |
+| 3 | [**Get-Next-Line**](https://github.com/LeonPupier/Get-Next-Line) | Read from files line by line. | C |
+| 4 | [**FdF**](https://github.com/LeonPupier/FdF) | 3D wireframe modeling project. | C |
+| 5 | [**Minitalk**](https://github.com/LeonPupier/Minitalk) | Client-server communication. | C |
+| 6 | [**Push_Swap**](https://github.com/LeonPupier/Push_swap) | Sorting algorithm visualizer. | C |
+| 7 | [**Philosophers**](https://github.com/LeonPupier/Philosophers) | Multithreading challenge. | C |
+| 8 | [**Minishell**](https://github.com/LeonPupier/Minishell) | Bash-like shell interpreter. | C |
+| 9 | [**Cub3D**](https://github.com/aLeuleu/cub3d) | First-person 3D game. | C |
+| 10 | [**CPP Modules**](https://github.com/LeonPupier/CppModules) | C++ learning path. | C++ |
+| 11 | [**IRC**](https://github.com/eliaszanotti/irc) | Internet Relay Chat application. | C++ |
+| 12 | [**Inception**](https://github.com/LeonPupier/Inception) | Dockerized system architecture. | Docker |
+| 13 | [**Transcendence**](https://github.com/Thib1708/transcendence) | Full-stack web app combining fun and tech. | Python, Django, JavaScript, HTML, CSS |
 
-<!-------------------------------------------------------------- Statistics -------------------------------------------------------------->
+</details>
 
-## GitHub Statistics
-<p display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonPupier&theme=transparent"/>
-<p display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeonPupier&theme=transparent"
-   display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeonPupier&theme=transparent"/>
+---
+
+## 📊 **GitHub Statistics**
+
+<p align="center">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonPupier&theme=github_dark" alt="Profile Details" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeonPupier&theme=github_dark" alt="Languages" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeonPupier&theme=github_dark" alt="Stats" />
+</p>
+
+---
+
+## 📫 **Get in Touch**
+- **Website**: [leonpupier.fr](https://leonpupier.fr)  
+- **LinkedIn**: [linkedin.com/in/léon-pupier0420/](https://www.linkedin.com/in/l%C3%A9on-pupier0420/)
+
+---
