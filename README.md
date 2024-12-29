@@ -9,7 +9,6 @@
 ## 🖋️ **About Me**
 
 🎓 Developer and graduate of 42 Lyon. I enjoy designing innovative solutions, tackling challenges, and building intuitive software.  
-🌐 Check out my portfolio: [leonpupier.fr](https://leonpupier.fr).  
 💬 Let's connect! Feel free to reach out for collaborations or questions.
 
 ---
