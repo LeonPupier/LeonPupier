@@ -20,6 +20,12 @@ Let's connect! Feel free to reach out for collaborations or questions.
 
 ---
 
+## 📫 **Get in Touch**
+- **Website**: [leonpupier.fr](https://leonpupier.fr)  
+- **LinkedIn**: [linkedin.com/in/léon-pupier0420/](https://www.linkedin.com/in/l%C3%A9on-pupier0420/)
+
+---
+
 ## 🛠️ **Key Skills**
 
 ### **Languages**
@@ -90,11 +96,3 @@ Let's connect! Feel free to reach out for collaborations or questions.
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeonPupier&theme=github_dark" alt="Languages" />
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeonPupier&theme=github_dark" alt="Stats" />
 </p>
-
----
-
-## 📫 **Get in Touch**
-- **Website**: [leonpupier.fr](https://leonpupier.fr)  
-- **LinkedIn**: [linkedin.com/in/léon-pupier0420/](https://www.linkedin.com/in/l%C3%A9on-pupier0420/)
-
----
