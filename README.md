@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Léon Pupier</h1>
+<h1 align="center">👋 Hi, I'm Léon Pupier</h1>
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=LeonPupier&label=Profile%20views&color=blue&style=flat" alt="Profile Views" />
@@ -8,8 +8,15 @@
 
 ## 🖋️ **About Me**
 
-🎓 Developer and graduate of 42 Lyon. I enjoy designing innovative solutions, tackling challenges, and building intuitive software.  
-💬 Let's connect! Feel free to reach out for collaborations or questions.
+🎓
+Developer and graduate of 42 Lyon.
+
+💼
+Currently working at [KLB Armes](https://klbarmes.com/), where I develop internal tools and support administrative processes related to regulated firearms sales.  
+I also take on occasional freelance projects, helping clients turn ideas into practical, well-structured applications.
+
+💬
+Let's connect! Feel free to reach out for collaborations or questions.
 
 ---
 
